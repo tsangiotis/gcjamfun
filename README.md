@@ -14,5 +14,5 @@ Log
 ##Qualification Round
 - [x] Magic Trick
 - [x] Cookie Clicker Alpha
-- [] Minesweeper Master
-- [] Deceitful War
+- [ ] Minesweeper Master
+- [ ] Deceitful War
