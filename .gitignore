@@ -1,0 +1,7 @@
+*.DS_Store
+solutions
+*.in
+!*small-practise.in
+!sample.in
+*.out
+*/__pycache__
