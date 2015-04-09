@@ -15,6 +15,8 @@ Log
 
 ---
 
+Thanks [nitsas](https://github.com/nitsas/codejamsolutions) for the template files and all that helpful stuff.
+
 - All ".in" files are input files. Just run runme.py on them and they'll 
   generate the expected output.
 - You can download expected output files (and larger input files) from the 
